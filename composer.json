@@ -1,9 +1,9 @@
 {
-    "name": "gavroche/browser",
+    "name": "gabrielbull/browser",
     "type": "library",
     "description": "Detecting the user's browser, operating system and language.",
     "keywords": ["browser", "os", "operating system", "language", "detection"],
-    "homepage": "https://github.com/gavroche/php-browser",
+    "homepage": "https://github.com/gabrielbull/php-browser",
     "license": "GPL-2.0",
     "authors": [
         {
